@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Hello_Dolly
+ * @package weitter
  * @version 1.6
  */
 /*
